@@ -1,0 +1,9 @@
+# NetBeans and Java build output
+build/
+dist/
+target/
+nbproject/private/
+*.class
+
+# Editor settings
+.vscode/
